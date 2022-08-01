@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bropto
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#, Unity, Java
+- 🌱 I’m currently learning C#, Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bropjang@gamil.com
 
